@@ -7,5 +7,6 @@ public class Methods {
     }
     void/*return type(void won't give any return type)*/ Hello/*new method*/(){
         System.out.println("Hello this is Method Calling");
+        
     }
 }
