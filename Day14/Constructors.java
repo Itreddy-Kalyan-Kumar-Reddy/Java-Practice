@@ -5,7 +5,7 @@ public class Constructors {
     char j;
 
     Constructors(){ //This is default constructor
-        System.out.println("This is creating new object");//Thsi calls on everytime when we create objects
+        System.out.println("This is creating new object");//This calls on everytime when we create objects
     }
 
     Constructors(int i){//This is calling int parameters i na constructor
